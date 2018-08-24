@@ -18,4 +18,6 @@ https://www.packtpub.com/mapt (Never used them but they have a ton of books)
 
 # Video Platforms (Paid)
 
-https://www.pluralsight.com/ (Video content website)
+https://www.pluralsight.com/
+
+https://www.udemy.com/
