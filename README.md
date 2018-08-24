@@ -12,7 +12,7 @@ https://youtube.com/ (Video content website)
 
 https://www.safaribooksonline.com/
 
-https://www.humblebundle.com/ (They ocassionally have tons of programming book sales)
+https://www.humblebundle.com/ (They ocassionally have tons of programming book sales for low prices)
 
 https://www.packtpub.com/mapt (Never used them but they have a ton of books)
 
