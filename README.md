@@ -11,6 +11,7 @@ https://youtube.com/ (Video content website)
 # Books (Paid)
 
 https://www.safaribooksonline.com/
+
 https://www.humblebundle.com/ (They ocassionally have tons of programming book sales)
 
 # Video Platforms (Paid)
