@@ -14,6 +14,8 @@ https://www.safaribooksonline.com/
 
 https://www.humblebundle.com/ (They ocassionally have tons of programming book sales)
 
+https://www.packtpub.com/mapt
+
 # Video Platforms (Paid)
 
 https://www.pluralsight.com/ (Video content website)
